@@ -7,5 +7,5 @@ Components
 Filed stores documents in separate Document library
 
 # DONATIONS
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif)]
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]
 (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RV6GAPZC68GHS)
