@@ -8,4 +8,4 @@ Filed stores documents in separate Document library
 
 # DONATIONS
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif)]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RV6GAPZC68GHS&on0=Amount&currency_code=USD&Merchant_id=B2AG5FXMUQ99J)
+(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RV6GAPZC68GHS)
